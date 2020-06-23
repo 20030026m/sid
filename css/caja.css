@@ -1,0 +1,29 @@
+input { 
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000000; 
+font-size: 16px; 
+font-weight: 100; 
+text-align: center; 
+background: #ffffff; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 9px; 
+border-radius: 5px 5px 5px 5px;
+-moz-border-radius: 5px 5px 5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+border: 2px solid #D1D9DA;}
+
+textarea { 
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #000000; 
+font-size: 16px; 
+font-weight: 100; 
+text-align: center; 
+background: #ffffff; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 9px; 
+border-radius: 5px 5px 5px 5px; 
+-moz-border-radius: 5px 5px 5px 5px; 
+-webkit-border-radius: 5px 5px 5px 5px; 
+border: 2px solid #D1D9DA;}
